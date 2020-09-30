@@ -10,7 +10,7 @@
 # on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either
 # express or implied. See the License for the specific language governing
 # permissions and limitations under the License.
-
+#thanks finally i got in your code what i wanted
 """
 This package provides an interface to the KCL MultiLangDaemon. This interface
 manages the interaction with the MultiLangDaemon so that developers can focus
